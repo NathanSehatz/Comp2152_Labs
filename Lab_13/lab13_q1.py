@@ -103,10 +103,3 @@ if __name__ == "__main__":
         print("\n  (no data loaded)")
 
     print("\n" + "=" * 60)
-
-lst_Hello = ["H","E","L","L","O"]
-lst2_Hello = list("HELLO")
-print(lst_Hello)
-print(lst2_Hello)
-print(lst_Hello [2])
-print(lst2_Hello [4])
